@@ -1,0 +1,14 @@
+#eng-dashboard {
+}
+
+.th-active {
+  border-left: .75em solid green;
+}
+
+.th-inactive {
+  border-left: .75em solid blue;
+}
+
+td.bg-dark {
+  color:#FFF;
+}
